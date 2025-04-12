@@ -9,16 +9,16 @@ The HR Attrition Report comprehensively analyzes employee retention, attrition, 
 
 
 ## Tools Used  
-- **Microsoft Power BI**  
-- **Power Query (ETL within Power BI)**  
+- Microsoft Power BI  
+- Power Query (ETL within Power BI)  
 
 ## Project Objectives  
-- **Identify Attrition Trends**: Analyze turnover and retention rates across departments.  
-- **Analyze Workforce Composition**: Review gender distribution, job levels, and years of service.  
-- **Evaluate Promotion Readiness**: Measure promotion eligibility across job levels.  
-- **Assess Employee Performance**: Spot trends in top vs. underperforming employees.  
-- **Understand Workforce Distribution**: Analyze commute, marital status, and overtime.  
-- **Support HR Decision-Making**: Deliver insights to improve retention, promotion, and workforce management.
+- Identify Attrition Trends: Analyze turnover and retention rates across departments.  
+- Analyze Workforce Composition: Review gender distribution, job levels, and years of service.  
+- Evaluate Promotion Readiness: Measure promotion eligibility across job levels.  
+- Assess Employee Performance: Spot trends in top vs. underperforming employees.  
+- Understand Workforce Distribution: Analyze commute, marital status, and overtime.  
+- Support HR Decision-Making: Deliver insights to improve retention, promotion, and workforce management.
 
 ## Dashboard Features  
 Built using **Power BI**, the dashboard allows for **interactive filtering** by:  
